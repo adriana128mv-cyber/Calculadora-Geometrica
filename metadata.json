@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora Geométrica",
+  "description": "Una aplicación web para calcular el área, perímetro, volumen y área de superficie de varias figuras geométricas 2D y 3D. Proporciona fórmulas y una interfaz interactiva para los cálculos.",
+  "requestFramePermissions": []
+}
